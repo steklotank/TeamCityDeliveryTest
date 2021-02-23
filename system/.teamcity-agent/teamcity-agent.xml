@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agent agent-version="85899">
+  <core>
+    <file name="buildAgent.zip" hash="SHA-1x7GtQQNzXsJpdrSOR7OQT+TfhlQ=" />
+  </core>
+  <plugins>
+    <file name="JetBrains.dotCover.CommandLineTools.bundled.zip" hash="SHA-1Luqe0I2eZl38jqtOPJce+8NiigA=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="agentSystemInfo.zip" hash="SHA-1fj1TGASK7Ha8pdK2XTzc6OkCZ00=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="amazonEC2.zip" hash="SHA-1yHjfe0W/IyeAD1VvamlIt/2/opA=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="ant-net-tasks.zip" hash="SHA-1NUH+WXhaStdadFjsR/l/eNMgzPY=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="ant.zip" hash="SHA-137TqQLZUsTIGQk4lG0tt79e1ai4=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="antPlugin.zip" hash="SHA-1owvREJ5uzpsxxK4DVZ4q7VzhoB8=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="cloud-vmware-agent.zip" hash="SHA-1gBj93iR2zW7IGbDHRK+hXpYMr2Q=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="commandLineRunner.jar" hash="SHA-1tEWy+pdrVTYA8NM8zkdGioPp8bE=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="coveragePlugin.zip" hash="SHA-1A7MM7T7fDPK6vUJPtV6FFqCGYLw=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="crashDetector.zip" hash="SHA-1dk9JwwYOASLqelxuU2udf+4+/VU=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="cvsAgent.zip" hash="SHA-1JQK6I1W9b8VUHB/NvemVCQ4PCag=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="deploy-runner-agent.zip" hash="SHA-1WX90l/wtYKt2/mpsgcJE1pzzqQs=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="docker-support.zip" hash="SHA-1YQLLRPpmydEJv3tSz79PsngPek4=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="dotNetPlugin.zip" hash="SHA-1fBSyl444Zmtoc+yZW61X8nO+XUg=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="dotNetRunners.zip" hash="SHA-1KwcLEu7i3rVCsq2u3n4LWYsb5u4=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="dotnet-tools-agent.zip" hash="SHA-1p2phftP5Jz/jEfaPGGKGAr+Hhec=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="dotnet.zip" hash="SHA-1CL+8ha/vluEuXuEkYsx0M/BOYMs=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="duplicatePlugin.zip" hash="SHA-1KrglUe7Kz81WwQs/mwbFilzr2dE=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="environment-fetcher-agent.jar" hash="SHA-1iS43FaC3VH+pzcePrO3/x+yn0LI=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="file-content-replacer.zip" hash="SHA-1ZlzDK+SA+SyG1YptoKT8AwbOHMY=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="fxcop.zip" hash="SHA-1aV5e3Qq/ha57EQZgI/V+NU0BHY0=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="gant.zip" hash="SHA-16fU967C8nh9H7jW2QIoOblceTVg=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="gantPlugin.zip" hash="SHA-1oidCgIwXBKXGBm3PN8wu5PHkHbE=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="golang-agent.zip" hash="SHA-1npjzH7/S3rNgNbtLbIOES2dlkhY=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="gradle-runner.zip" hash="SHA-1yC8NqxbAh2/tQcPX0rrp6kwYEAI=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="idea-runner.zip" hash="SHA-1EJa4DHwNZJJTOyKFMKrc8KNbpDw=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="idea.zip" hash="SHA-1/bcFn7Oaicz9+xXaNZbwan+bdCM=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="inspectionPlugin.zip" hash="SHA-1fHJ+hhhgX33l015lM+4q0WhaT9s=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="jacoco.0.7.5.zip" hash="SHA-15WUW3Mb/O6sgDK233HdRh6RaR0g=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="jacoco.0.8.2.zip" hash="SHA-131kOiXOZrO/+LhireHI9PT4Qlhs=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="jacoco.0.8.4.zip" hash="SHA-1uLUPYJqd4aGk5JNz6q3iq0ivRaM=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="java-dowser.zip" hash="SHA-1EOKoH4et0RgsWkQSbHiOoottQ0w=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="jetbrains.git.zip" hash="SHA-17fPXeUEpAVtoh5ue0jx/8Z53wtw=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="jetbrains.resharper-clt.bundled.zip" hash="SHA-1P7ojgqp7Gcqr3iX3mqndKUatyfQ=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="jps.zip" hash="SHA-1YbLXLjA/joj56YCA+OLM/Ap9OU8=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="junitPlugin.zip" hash="SHA-1TZNrrUMjaiVQVlKPyjXawcBoLjc=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="jvm-update.zip" hash="SHA-1SEUKhDOhD7GsB0/xspFSy7grmeQ=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="maven.zip" hash="SHA-1XzQQtG6G5qcVuMF/DJbPc5EAolQ=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="maven3.zip" hash="SHA-1OFyNzFwQ3osk28H3eEg28H974Ac=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="maven3_1.zip" hash="SHA-1nCalZOFDktQE3PSq4FBmaOfQMZg=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="maven3_2.zip" hash="SHA-1yyiMu29nrvt8O6gMA2ijKyaE4Dc=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="maven3_3.zip" hash="SHA-1jJMiQa8sfByjEYJ5o/rEjGF6AXk=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="maven3_5.zip" hash="SHA-1wW7Sj/xfso0VCx/Ed/HUIh7ymbA=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="maven3_6.zip" hash="SHA-1B/uKn7YORaj01MsptTkmoy4ZxrY=" type="TOOL" allowLoadingOnDemand="true" />
+    <file name="mavenPlugin.zip" hash="SHA-1eFxJ7iMPI48FDJPK+1mA4h36zas=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="mercurial.zip" hash="SHA-1Of1eJKWpG59I48X1mabaljaM7mE=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="meta-runner.zip" hash="SHA-13aCMoJhrqv6xN9YNve/6wSWv8kQ=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="nuget-agent.zip" hash="SHA-1JC+IWvCZ8h9m5qGc3AXSnsxHJ/Q=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="perfmon-agent.zip" hash="SHA-1EHwRZBQIfxUwXyK2FbzM9XlaGDs=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="perforce-agent.zip" hash="SHA-1faSjeZzoZQLnhi8U/tDKVZic2nQ=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="powershell-agent.zip" hash="SHA-1TPn7woYqTFcUszjf8tzl/A+hbd0=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="python-agent-85899.zip" hash="SHA-1fr8WE8KQ8zWnjDtCozG7YPBsq8k=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="rake-runner.zip" hash="SHA-12BmWWyUpRlOK9I1qX5zHfvQYWZQ=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="remoteAccess.zip" hash="SHA-1X5NxnV5meDn9WygbX2okBTSzr+8=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="s3-artifact-storage-agent.zip" hash="SHA-1nzifI7EGkmTifh+awt+72P8fnYo=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="sbt-runner-agent.zip" hash="SHA-1/Etgbg12H8H3AuroY1/RGzhV2cQ=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="ssh-manager.jar" hash="SHA-1/LwM0ATq1UCxKD8uaimC1Cg0qCI=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="stacktracesPlugin.zip" hash="SHA-1DlYTPHe8rDURII03CFbYuZYOYBM=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="svnAgent.zip" hash="SHA-1lHOlYpgvp5wB4tlhCfNsiVLhlAc=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="swabra.zip" hash="SHA-1/QNlfNq11W3cbm1o0msdxCPe0rM=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="teamcity-kubernetes-plugin-agent.zip" hash="SHA-1qizmS/QjHBE8OacNgDHc6TciO10=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="testNGPlugin.zip" hash="SHA-1vzxwJto/1sKef4FEO4B0p2bYCK0=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="tfs-agent.zip" hash="SHA-1eZ6unQnPOaCLqcV+oUMofcuGLsI=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="visualstudiotest-agent.zip" hash="SHA-18OUsN4TD6TJASuW1j3yapLWj5Qo=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="xcode-runner.zip" hash="SHA-1LY+ZQ3tQL9dLP4haJF1f2cgHJ6Y=" type="PLUGIN" allowLoadingOnDemand="false" />
+    <file name="xml-report-plugin.zip" hash="SHA-1PoAVW+LuFGz+5W8bcQIyaa8Ig/Y=" type="PLUGIN" allowLoadingOnDemand="false" />
+  </plugins>
+</agent>
+
